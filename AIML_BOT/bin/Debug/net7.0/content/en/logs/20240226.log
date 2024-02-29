@@ -1,0 +1,12 @@
+[16:12:03]	[Info]	Loading AIML files from content/en\aiml
+[16:12:03]	[Info]	Processing AIML file: content/en\aiml\english.aiml
+[16:12:03]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 85
+[16:12:11]	[Warning]	[0] No match for input 'es'.
+[16:12:15]	[Warning]	[0] No match for input 'hola'.
+[16:13:17]	[Info]	Loading AIML files from content/en\aiml
+[16:13:17]	[Info]	Processing AIML file: content/en\aiml\english.aiml
+[16:13:17]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 41
+[16:17:36]	[Info]	Loading AIML files from content/en\aiml
+[16:17:36]	[Info]	Processing AIML file: content/en\aiml\english.aiml
+[16:17:36]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 82
+[16:17:41]	[Warning]	[0] No match for input 'hola'.

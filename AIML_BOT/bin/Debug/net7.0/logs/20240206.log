@@ -1,0 +1,4 @@
+[14:13:07]	[Info]	Loading AIML files from .\aiml
+[14:13:07]	[Info]	Processing AIML file: .\aiml\aiml_bot.aiml
+[14:13:07]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 118
+[14:13:32]	[Warning]	[0] No match for input 'hello'.

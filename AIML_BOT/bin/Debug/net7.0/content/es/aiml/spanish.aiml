@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+        <pattern>HOLA</pattern>
+        <template>¡Hola! ¿En qué puedo ayudarte?</template>
+    </category>
+
+    <category>
+        <pattern>¿CÓMO ESTÁS?</pattern>
+        <template>Estoy bien, gracias. ¿Y tú?</template>
+    </category>
+
+    <category>
+        <pattern>¿QUÉ TIEMPO HACE?</pattern>
+        <template>Hace buen tiempo hoy.</template>
+    </category>
+
+    <!-- Add more categories and patterns based on the conversations you want to handle -->
+</aiml>

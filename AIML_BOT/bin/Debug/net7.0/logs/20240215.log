@@ -1,0 +1,46 @@
+[09:56:24]	[Info]	Loading AIML files from .\aiml
+[09:56:24]	[Info]	Processing AIML file: .\aiml\aiml_bot.aiml
+[09:56:24]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 506
+[10:00:11]	[Warning]	[0] No match for input 'i'.
+[15:23:40]	[Info]	Loading AIML files from .\aiml
+[15:23:40]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:23:40]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 118
+[15:32:09]	[Info]	Loading AIML files from .\aiml
+[15:32:09]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:32:09]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 150
+[15:32:21]	[Warning]	[0] No match for input 'holla'.
+[15:41:23]	[Info]	Loading AIML files from .\aiml
+[15:41:23]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:41:23]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 389
+[15:41:36]	[Warning]	[0] No match for input '1'.
+[15:41:48]	[Info]	Loading AIML files from .\aiml
+[15:41:49]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:41:49]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 278
+[15:42:05]	[Info]	Loading AIML files from .\aiml
+[15:42:05]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:42:05]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 286
+[15:49:06]	[Info]	Loading AIML files from .\aiml
+[15:49:06]	[Info]	Processing AIML file: .\aiml\english.aiml
+[15:49:06]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 184
+[16:27:01]	[Info]	Loading AIML files from .\aiml
+[16:27:01]	[Info]	Processing AIML file: .\aiml\english.aiml
+[16:27:01]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 142
+[16:27:10]	[Warning]	[0] No match for input 'hola'.
+[16:27:21]	[Warning]	[0] No match for input 'HOLA'.
+[16:28:16]	[Info]	Loading AIML files from .\aiml
+[16:28:16]	[Info]	Processing AIML file: .\aiml\english.aiml
+[16:28:16]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 207
+[16:28:26]	[Warning]	[0] No match for input 'HOLA'.
+[16:29:20]	[Info]	Loading AIML files from .\aiml
+[16:29:20]	[Info]	Processing AIML file: .\aiml\english.aiml
+[16:29:20]	[Info]	Processing AIML file: .\aiml\spanish.aiml
+[16:29:20]	[Info]	Finished loading the AIML files. 4 categories in 2 files processed in Milliseconds: 246
+[16:29:35]	[Info]	Loading AIML files from .\aiml
+[16:29:35]	[Info]	Processing AIML file: .\aiml\english.aiml
+[16:29:35]	[Info]	Processing AIML file: .\aiml\spanish.aiml
+[16:29:35]	[Info]	Finished loading the AIML files. 4 categories in 2 files processed in Milliseconds: 123
+[16:31:23]	[Info]	Loading AIML files from .\aiml
+[16:31:23]	[Info]	Processing AIML file: .\aiml\english.aiml
+[16:31:23]	[Info]	Processing AIML file: .\aiml\french.aiml
+[16:31:23]	[Info]	Processing AIML file: .\aiml\spanish.aiml
+[16:31:23]	[Info]	Finished loading the AIML files. 7 categories in 3 files processed in Milliseconds: 104

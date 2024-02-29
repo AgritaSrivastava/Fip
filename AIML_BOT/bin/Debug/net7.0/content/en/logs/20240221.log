@@ -1,0 +1,4 @@
+[16:41:22]	[Info]	Loading AIML files from content/en\aiml
+[16:41:22]	[Info]	Processing AIML file: content/en\aiml\english.aiml
+[16:41:22]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 185
+[16:41:32]	[Warning]	[0] No match for input 'hola'.

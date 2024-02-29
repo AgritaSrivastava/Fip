@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHmDg7eWN5xykVbPPV3axX973I7sFsmchBV0/hBSESS9TPflxo0qkH94FgKX2kq5ELYcT2BIEnKRgLdKh8a7KQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adityaraj\\Desktop\\AIML_BOT\\AIML_BOT\\AIML_BOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adityaraj\\.nuget\\packages\\aiml.net\\2.0.2\\aiml.net.2.0.2.nupkg.sha512",
+    "C:\\Users\\adityaraj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

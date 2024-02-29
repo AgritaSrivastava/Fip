@@ -1,0 +1,4 @@
+[16:24:56]	[Info]	Loading AIML files from content/es\aiml
+[16:24:56]	[Info]	Processing AIML file: content/es\aiml\spanish.aiml
+[16:24:56]	[Info]	Finished loading the AIML files. 3 categories in 1 file processed in Milliseconds: 49
+[16:25:06]	[Warning]	[0] No match for input 'bonjour'.

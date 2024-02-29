@@ -1,0 +1,5 @@
+[12:04:00]	[Info]	Loading AIML files from .\aiml
+[12:04:00]	[Info]	Processing AIML file: .\aiml\english.aiml
+[12:04:00]	[Info]	Processing AIML file: .\aiml\french.aiml
+[12:04:00]	[Info]	Processing AIML file: .\aiml\spanish.aiml
+[12:04:00]	[Info]	Finished loading the AIML files. 7 categories in 3 files processed in Milliseconds: 133

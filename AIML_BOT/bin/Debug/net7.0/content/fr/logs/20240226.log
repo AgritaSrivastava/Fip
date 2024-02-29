@@ -1,0 +1,5 @@
+[16:22:57]	[Info]	Loading AIML files from content/fr\aiml
+[16:22:57]	[Info]	Processing AIML file: content/fr\aiml\french.aiml
+[16:22:57]	[Info]	Finished loading the AIML files. 3 categories in 1 file processed in Milliseconds: 56
+[16:23:27]	[Warning]	[0] No match for input 'hi'.
+[16:23:30]	[Warning]	[0] No match for input 'hello'.

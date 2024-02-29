@@ -1,0 +1,11 @@
+[16:40:16]	[Info]	Loading AIML files from .\aiml
+[16:40:16]	[Info]	Processing AIML file: .\aiml\aiml_bot.aiml
+[16:40:16]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 148
+[22:27:30]	[Info]	Loading AIML files from .\aiml
+[22:27:30]	[Info]	Processing AIML file: .\aiml\aiml_bot.aiml
+[22:27:30]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 164
+[22:28:42]	[Warning]	[0] No match for input 'hello'.
+[22:28:47]	[Warning]	[0] No match for input 'hey'.
+[22:58:56]	[Info]	Loading AIML files from .\aiml
+[22:58:56]	[Info]	Processing AIML file: .\aiml\aiml_bot.aiml
+[22:58:56]	[Info]	Finished loading the AIML files. 1 categories in 1 file processed in Milliseconds: 136
